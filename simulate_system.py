@@ -27,7 +27,7 @@ mparams['vol_col']=0.00378541/4.0 #volume of water in the solar collector [m^3]
 mparams['eff']=0.7 # efficiency of solar collector
 mparams['R_col']=0.5
 vdot_pump_nom=6.30902E-5/5 #nominal pump volumetric flow rate [0.2 GPM]
-mparams['A_col']=1 #solar collector area [m^3]
+mparams['A_col']=1 #solar collector area [m^2]
 
 
 #array for tank temperatures
